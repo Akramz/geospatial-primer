@@ -4,3 +4,8 @@ downloads
 .idea
 .DS_store
 .ipynb_checkpoints
+adjusted_nairobi_elevation*
+out_adjusted_nairobi_elevation*
+your_output_file*
+output_countries*
+output_paris_districts*
