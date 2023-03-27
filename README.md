@@ -29,14 +29,14 @@ jupyter lab
 ## Notebooks
 
 We provide links for the available notebooks:
-- [NumPy](https://nbviewer.jupyter.org/github/Akramz/geospatial-primer/blob/master/00-NumPy.ipynb)
-- [Pandas](https://nbviewer.jupyter.org/github/Akramz/geospatial-primer/blob/master/01-Pandas.ipynb)
-- [Matplotlib](https://nbviewer.jupyter.org/github/Akramz/geospatial-primer/blob/master/02-Matplotlib.ipynb)
-- [Shapely](https://nbviewer.jupyter.org/github/Akramz/geospatial-primer/blob/master/03-Shapely.ipynb)
-- [GeoPandas](https://nbviewer.jupyter.org/github/Akramz/geospatial-primer/blob/master/04-GeoPandas.ipynb)
-- [Rasterio](https://nbviewer.jupyter.org/github/Akramz/geospatial-primer/blob/master/05-Rasterio.ipynb)
-- [XArray](https://nbviewer.jupyter.org/github/Akramz/geospatial-primer/blob/master/06-XArray.ipynb)
-- [Contextily & Leafmap](https://nbviewer.jupyter.org/github/Akramz/geospatial-primer/blob/master/07-Contextily-Leafmap.ipynb)
+- [NumPy](https://nbviewer.org/github/Akramz/geospatial-primer/blob/main/00-NumPy.ipynb): Scientific Computing in Python.
+- [Pandas](https://nbviewer.org/github/Akramz/geospatial-primer/blob/main/01-Pandas.ipynb): Tabular Data Analysis with `Pandas`.
+- [Matplotlib](https://nbviewer.org/github/Akramz/geospatial-primer/blob/main/02-Matplotlib.ipynb): Scientific Visualization.
+- [Shapely](https://nbviewer.org/github/Akramz/geospatial-primer/blob/main/03-Shapely.ipynb): Manipulation & analysis of geometric objects
+- [GeoPandas](https://nbviewer.org/github/Akramz/geospatial-primer/blob/main/04-GeoPandas.ipynb): GeoSpatial Tabular Data Analysis.
+- [Rasterio](https://nbviewer.org/github/Akramz/geospatial-primer/blob/main/05-Rasterio.ipynb): Reading, Writing, and Processing raster data.
+- [XArray](https://nbviewer.org/github/Akramz/geospatial-primer/blob/main/06-XArray.ipynb): Multi-dimensional labeled arrays.
+- [Contextily & Leafmap](https://nbviewer.org/github/Akramz/geospatial-primer/blob/main/07-Contextily-Leafmap.ipynb): Visualizing GeoSpatial Data.
 
 ## Credits
 
