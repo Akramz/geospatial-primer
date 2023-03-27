@@ -1,0 +1,28 @@
+name: geospatial_primer
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - contextily
+  - geopandas
+  - ipython
+  - jupyterlab
+  - leafmap
+  - mamba
+  - matplotlib
+  - notebook
+  - numpy
+  - pandas
+  - pip
+  - proj
+  - rasterio
+  - rioxarray
+  - shapely
+  - rasterstats
+  - xarray
+  - seaborn
+  - dask
+  - netCDF4
+  - bottleneck
+  - localtileserver
